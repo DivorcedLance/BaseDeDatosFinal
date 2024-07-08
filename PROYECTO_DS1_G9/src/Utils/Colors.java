@@ -1,0 +1,54 @@
+package Utils;
+
+import org.apache.poi.ss.usermodel.IndexedColors;
+
+public class Colors {
+    public static short BLACK = IndexedColors.BLACK.getIndex();
+    public static short WHITE = IndexedColors.WHITE.getIndex();
+    public static short RED = IndexedColors.RED.getIndex();
+    public static short BRIGHT_GREEN = IndexedColors.BRIGHT_GREEN.getIndex();
+    public static short BLUE = IndexedColors.BLUE.getIndex();
+    public static short YELLOW = IndexedColors.YELLOW.getIndex();
+    public static short PINK = IndexedColors.PINK.getIndex();
+    public static short TURQUOISE = IndexedColors.TURQUOISE.getIndex();
+    public static short DARK_RED = IndexedColors.DARK_RED.getIndex();
+    public static short GREEN = IndexedColors.GREEN.getIndex();
+    public static short DARK_BLUE = IndexedColors.DARK_BLUE.getIndex();
+    public static short DARK_YELLOW = IndexedColors.DARK_YELLOW.getIndex();
+    public static short VIOLET = IndexedColors.VIOLET.getIndex();
+    public static short TEAL = IndexedColors.TEAL.getIndex();
+    public static short GREY_25_PERCENT = IndexedColors.GREY_25_PERCENT.getIndex();
+    public static short GREY_50_PERCENT = IndexedColors.GREY_50_PERCENT.getIndex();
+    public static short CORNFLOWER_BLUE = IndexedColors.CORNFLOWER_BLUE.getIndex();
+    public static short MAROON = IndexedColors.MAROON.getIndex();
+    public static short LEMON_CHIFFON = IndexedColors.LEMON_CHIFFON.getIndex();
+    public static short ORCHID = IndexedColors.ORCHID.getIndex();
+    public static short CORAL = IndexedColors.CORAL.getIndex();
+    public static short ROYAL_BLUE = IndexedColors.ROYAL_BLUE.getIndex();
+    public static short LIGHT_CORNFLOWER_BLUE = IndexedColors.LIGHT_CORNFLOWER_BLUE.getIndex();
+    public static short SKY_BLUE = IndexedColors.SKY_BLUE.getIndex();
+    public static short LIGHT_TURQUOISE = IndexedColors.LIGHT_TURQUOISE.getIndex();
+    public static short LIGHT_GREEN = IndexedColors.LIGHT_GREEN.getIndex();
+    public static short LIGHT_YELLOW = IndexedColors.LIGHT_YELLOW.getIndex();
+    public static short PALE_BLUE = IndexedColors.PALE_BLUE.getIndex();
+    public static short ROSE = IndexedColors.ROSE.getIndex();
+    public static short LAVENDER = IndexedColors.LAVENDER.getIndex();
+    public static short TAN = IndexedColors.TAN.getIndex();
+    public static short LIGHT_BLUE = IndexedColors.LIGHT_BLUE.getIndex();
+    public static short AQUA = IndexedColors.AQUA.getIndex();
+    public static short LIME = IndexedColors.LIME.getIndex();
+    public static short GOLD = IndexedColors.GOLD.getIndex();
+    public static short LIGHT_ORANGE = IndexedColors.LIGHT_ORANGE.getIndex();
+    public static short ORANGE = IndexedColors.ORANGE.getIndex();
+    public static short BLUE_GREY = IndexedColors.BLUE_GREY.getIndex();
+    public static short GREY_40_PERCENT = IndexedColors.GREY_40_PERCENT.getIndex();
+    public static short DARK_TEAL = IndexedColors.DARK_TEAL.getIndex();
+    public static short SEA_GREEN = IndexedColors.SEA_GREEN.getIndex();
+    public static short DARK_GREEN = IndexedColors.DARK_GREEN.getIndex();
+    public static short OLIVE_GREEN = IndexedColors.OLIVE_GREEN.getIndex();
+    public static short BROWN = IndexedColors.BROWN.getIndex();
+    public static short PLUM = IndexedColors.PLUM.getIndex();
+    public static short INDIGO = IndexedColors.INDIGO.getIndex();
+    public static short GREY_80_PERCENT = IndexedColors.GREY_80_PERCENT.getIndex();
+    public static short AUTOMATIC = IndexedColors.AUTOMATIC.getIndex();
+}
